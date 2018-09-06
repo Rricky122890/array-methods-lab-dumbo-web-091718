@@ -1,6 +1,6 @@
 def using_include(array, element)
 array = ["1", "2", "3"]
-array.include?("2")
+array.include?("5")
 
 end
 
