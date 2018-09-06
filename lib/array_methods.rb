@@ -1,4 +1,6 @@
 def using_include(array, element)
+arr = ["1", "2", "3"]
+arr.include?("2")
 
 end
 
